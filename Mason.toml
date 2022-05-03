@@ -1,0 +1,10 @@
+
+[brick]
+chplVersion = "1.27.0"
+license = "None"
+name = "HelloWorld"
+version = "1.0.0"
+
+[dependencies]
+
+
