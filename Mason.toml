@@ -1,8 +1,14 @@
+
 [brick]
-authors="Ben McDonald"
-chplVersion="1.27.0"
-license="None"
-name="HelloWorld"
-source="https://github.com/bmcdonald3/HelloWorld"
-version="0.1.0"
-type="library"
+authors = "Ben McDonald"
+chplVersion = "1.27.0"
+license = "None"
+name = "HelloWorld"
+source = "https://github.com/bmcdonald3/HelloWorld"
+type = "library"
+version = "0.1.0"
+
+[dependencies]
+SymArrayDmap = "0.1.0"
+
+
